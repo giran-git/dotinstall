@@ -1,3 +1,8 @@
+<? php
+
+$message = 'こんにちは！' . date('l');
+
+?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
